@@ -19,7 +19,7 @@ MarkupSafe==2.1.1
 numpy==1.23.1
 packaging==21.3
 pandas==1.4.3
-
+pipwin==0.5.2
 platformdirs==2.4.0
 pyjsparser==2.7.1
 pyparsing==3.0.9
@@ -30,7 +30,7 @@ python-dateutil==2.8.2
 pyttsx3==2.90
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
-
+pywin32==304
 requests==2.28.1
 scikit-learn==1.1.1
 scipy==1.9.0
