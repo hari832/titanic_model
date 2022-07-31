@@ -19,7 +19,7 @@ MarkupSafe==2.1.1
 numpy==1.23.1
 packaging==21.3
 pandas==1.4.3
-pipwin==0.5.2
+
 platformdirs==2.4.0
 pyjsparser==2.7.1
 pyparsing==3.0.9
